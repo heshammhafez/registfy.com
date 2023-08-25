@@ -50,6 +50,7 @@ h2 span {
   background-position: center top;
   background-size: cover;
   background-attachment: fixed;
+  font-size: 30px;
   text-shadow: 0 0 15px rgba(0,0,0,0.6);
 }
 
